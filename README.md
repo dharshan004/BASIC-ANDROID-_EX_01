@@ -4,12 +4,9 @@
 ## AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
-
 ## EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
-
-
 
 ## ALGORITHM:
 
@@ -32,8 +29,6 @@ Step 7: Save and run the application.
 
 ### DEVELOPED BY : dharshan
 ### REGISTER NO: 212222040036
-
-
 ### MainActivity.java:
 ```
 package com.example.andriodlifecycle;
@@ -100,6 +95,7 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
+
 ### Activity_Main.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -138,6 +134,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## OnStart Executed:
 <img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="400">
+
+
+
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
