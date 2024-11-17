@@ -100,7 +100,6 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-
 ### Activity_Main.XML:
 ```
 <?xml version="1.0" encoding="utf-8"?>
@@ -139,9 +138,6 @@ public class MainActivity extends AppCompatActivity {
 
 ## OnStart Executed:
 <img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="400">
-
-
-
 
 ## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
