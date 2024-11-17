@@ -4,9 +4,12 @@
 ## AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
+
 ## EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
+
+
 
 ## ALGORITHM:
 
@@ -27,7 +30,7 @@ Step 7: Save and run the application.
 
 ## PROGRAM
 
-### DEVELOPED BY : dharshan s
+### DEVELOPED BY : dharshan
 ### REGISTER NO: 212222040036
 
 
